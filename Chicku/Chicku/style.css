@@ -1,0 +1,63 @@
+  h1 {text-align: center;}
+
+p {text-align: center; font-family: Helvetica;}
+
+h2 {text-align: center; font-family: Helvetica}
+
+header {font-family: Helvetica}
+
+.button_home_nav {
+background-color: #ff0000; /* Red */
+border: none;
+color: white;
+padding: 10px 32px;
+text-align: center;
+text-decoration: none;
+display: inline-block;
+font-size: 16px;
+font-family: Monospace;}
+
+.button_find_nav {
+background-color: #729fcf; /* Blue */
+border: none;
+color: white;
+padding: 10px 32px;
+text-align: center;
+text-decoration: none;
+display: inline-block;
+font-size: 16px;
+font-family: Arial;}
+
+.button_advertise_nav {
+background-color: #729fcf; /* Blue */
+border: none;
+color: white;
+padding: 10px 32px;
+text-align: center;
+text-decoration: none;
+display: inline-block;
+font-size: 16px;
+font-family: Arial;}
+
+.sign-up {
+background-color: #729fcf; /* Blue */
+border: none;
+color: white;
+padding: 10px 32px;
+text-align: center;
+text-decoration: none;
+display: inline-block;
+font-size: 16px;
+font-family: Arial;
+}
+
+.row {
+  content: "";
+  clear: both;
+  display: table;
+  text-align: center;
+}
+
+.text-center {
+  text-align: center;
+}
